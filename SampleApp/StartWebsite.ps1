@@ -1,0 +1,1 @@
+New-WebApplication -Site "Default Web Site" -Name SampleWeb -PhysicalPath c:\inetpub\wwwroot\SampleWeb -Force
