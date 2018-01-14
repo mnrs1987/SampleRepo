@@ -1,0 +1,7 @@
+E:\Projects\TFSRepo\Sample_Web_4.5\MathUnitTest\bin\Debug\MathUnitTest.dll
+E:\Projects\TFSRepo\Sample_Web_4.5\MathUnitTest\bin\Debug\MathUnitTest.pdb
+E:\Projects\TFSRepo\Sample_Web_4.5\MathUnitTest\bin\Debug\mathlib.dll
+E:\Projects\TFSRepo\Sample_Web_4.5\MathUnitTest\bin\Debug\mathlib.pdb
+E:\Projects\TFSRepo\Sample_Web_4.5\MathUnitTest\obj\Debug\MathUnitTest.csprojResolveAssemblyReference.cache
+E:\Projects\TFSRepo\Sample_Web_4.5\MathUnitTest\obj\Debug\MathUnitTest.dll
+E:\Projects\TFSRepo\Sample_Web_4.5\MathUnitTest\obj\Debug\MathUnitTest.pdb

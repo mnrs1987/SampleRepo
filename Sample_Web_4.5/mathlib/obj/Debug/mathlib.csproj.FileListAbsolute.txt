@@ -1,0 +1,4 @@
+E:\Projects\TFSRepo\Sample_Web_4.5\mathlib\bin\mathlib.dll
+E:\Projects\TFSRepo\Sample_Web_4.5\mathlib\bin\mathlib.pdb
+E:\Projects\TFSRepo\Sample_Web_4.5\mathlib\obj\Debug\mathlib.dll
+E:\Projects\TFSRepo\Sample_Web_4.5\mathlib\obj\Debug\mathlib.pdb
