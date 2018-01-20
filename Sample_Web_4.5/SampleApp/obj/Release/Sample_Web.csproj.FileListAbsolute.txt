@@ -1,0 +1,8 @@
+E:\Projects\TFSRepo\Sample_Web_4.5\SampleApp\bin\SampleApp.dll.config
+E:\Projects\TFSRepo\Sample_Web_4.5\SampleApp\bin\SampleApp.dll
+E:\Projects\TFSRepo\Sample_Web_4.5\SampleApp\bin\SampleApp.pdb
+E:\Projects\TFSRepo\Sample_Web_4.5\SampleApp\bin\mathlib.dll
+E:\Projects\TFSRepo\Sample_Web_4.5\SampleApp\bin\mathlib.pdb
+E:\Projects\TFSRepo\Sample_Web_4.5\SampleApp\obj\Release\Sample_Web.csprojResolveAssemblyReference.cache
+E:\Projects\TFSRepo\Sample_Web_4.5\SampleApp\obj\Release\SampleApp.dll
+E:\Projects\TFSRepo\Sample_Web_4.5\SampleApp\obj\Release\SampleApp.pdb

@@ -1,0 +1,9 @@
+version: 0.0
+os: windows
+files:
+  - source: \
+    destination: c:\inetpub\wwwroot\Sample_Web\
+
+hooks:
+  BeforeInstall:
+    - location: .\StartWebsite.ps1

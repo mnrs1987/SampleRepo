@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Projects\TFSRepo\Published</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Addition.aspx">
+      <publishTime>01/20/2018 20:52:53</publishTime>
+    </File>
+    <File Include="appspec.yml">
+      <publishTime>01/20/2018 20:52:54</publishTime>
+    </File>
+    <File Include="bin/mathlib.dll">
+      <publishTime>01/20/2018 20:56:30</publishTime>
+    </File>
+    <File Include="bin/SampleApp.dll">
+      <publishTime>01/20/2018 20:56:30</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>01/20/2018 20:52:55</publishTime>
+    </File>
+    <File Include="image/back.png">
+      <publishTime>01/20/2018 20:53:07</publishTime>
+    </File>
+    <File Include="Multiply.aspx">
+      <publishTime>01/20/2018 20:52:54</publishTime>
+    </File>
+    <File Include="StartWebsite.ps1">
+      <publishTime>01/20/2018 20:52:54</publishTime>
+    </File>
+    <File Include="Subtract.aspx">
+      <publishTime>01/20/2018 20:52:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/20/2018 20:56:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
